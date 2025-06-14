@@ -37,7 +37,6 @@ This is a fully static website that can be hosted on:
 
 ## License
 
-This project is for educational and personal portfolio purposes.
 
 ---
 
